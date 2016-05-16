@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IoDelegate",""],["IoHandler","Should be used to handle jsonrpc io."]]});

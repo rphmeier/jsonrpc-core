@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Commander","Commands executor."]],"trait":[["MethodCommand","Should be used to handle single method call."],["NotificationCommand","Should be used to handle single notification."]]});
